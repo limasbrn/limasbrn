@@ -1,6 +1,6 @@
-###✨Hey visitor!✨
+### ✨Hey visitor!✨
 
-### 💻 Tecnologies there I'm working with:
+## 💻 Tecnologies there I'm working with:
 
 <div style="display: inline_block">
   <img align="center" alt="Sabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,7 +9,7 @@
   <img align="center" alt="Sabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
  
-### 📚 Currently learning:
+## 📚 Currently learning:
 
 * Vue;
 * TDD;
