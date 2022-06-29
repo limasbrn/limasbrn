@@ -3,7 +3,7 @@
 
 <div align="left">
   <a href="https://github.com/limasbrn">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limasbrn&layout=compact&langs_count=7&theme=synthwave"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limasbrn&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 ### 💻 Technologies I've been working with:
